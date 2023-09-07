@@ -1,4 +1,4 @@
-# Self Supervised Monocolar Depth Estimation
+# Self Supervised Monocular Depth Estimation
 
 Matthew Lam - University of Waterloo CS 484 Computational Vision
 
